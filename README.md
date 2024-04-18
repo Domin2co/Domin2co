@@ -9,6 +9,7 @@
 [1. Career](#Career) <br>
 [2. Activity](#Activity) <br>
 [3. Most Used Languages](#Most-Used-Languages)<br>
+[4. Skills](#Skills)<br>
 
 ## Career
 <div markdown="1">
@@ -39,7 +40,7 @@
 
 </div>
 
-## 기술
+## Skills
 <div markdown="4">
   
 - ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) <br>
