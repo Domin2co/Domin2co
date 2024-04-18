@@ -24,7 +24,7 @@
 
 </div>
 
-# Activity
+## Activity
 <div markdown="2">
   
 |기간|활동|기수|
