@@ -9,7 +9,8 @@
 [1. Career](#Career) <br>
 [2. Activity](#Activity) <br>
 [3. Most Used Languages](#Most-Used-Languages)<br>
-[4. Skills](#Skills)<br>
+[4. Project](#Project)<br>
+[5. Skills](#Skills)<br>
 
 ## Career
 <div markdown="1">
@@ -40,8 +41,21 @@
 
 </div>
 
-## Skills
+## Project
 <div markdown="4">
+  
+|기간|프로젝트명|회사|
+|:-:|-:|-:|
+|<sub>2023.04 ~ <sub>| **[지하안전정보시스템(JIS)](https://www.jis.go.kr)** | (주)아이씨티웨이
+|<sub>2023.02 ~ 2023.04<sub>| **[국토지반정보 포털시스템(geoinfo)](https://www.geoinfo.or.kr/)** | (주)아이씨티웨이
+|<sub>2022.11 ~ 2023.01<sub>| 지하정보통합체계 | (주)아이씨티웨이
+|<sub>2022.07 ~ 2022.09<sub>| PHOTO SIGNATURE | (주)알소프트
+|<sub>2022.07 ~ 2022.09<sub>| CLOUD DENTAL | (주)알소프트
+
+</div>
+
+## Skills
+<div markdown="5">
   
 - ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) <br>
 - ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) <br>
