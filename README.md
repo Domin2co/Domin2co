@@ -15,13 +15,11 @@
 ## Career
 <div markdown="1">
 
-<a href="https://solved.ac/ikhyeons"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ikhyeons&theme=dark"/></a>
 - **[(주)아이씨티웨이](http://www.ictway.co.kr/)** - 웹 페이지 개발 <sub>(2022.11 ~ )</sub>
 - **[(주)알소프트](http://www.rsoft.kr/new/)** - 웹 페이지 개발 <sub>(2022.07 ~ 2022.09)</sub>
-<br/>
-<br/>
-<br/>
-<br/>
+<br>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ikhyeons)](https://solved.ac/ikhyeons)
 
 </div>
 
