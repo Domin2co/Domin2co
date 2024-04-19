@@ -8,9 +8,8 @@
 
 [1. Career](#Career) <br>
 [2. Activity](#Activity) <br>
-[3. Most Used Languages](#Most-Used-Languages)<br>
-[4. Project](#Project)<br>
-[5. Skills](#Skills)<br>
+[3. Project](#Project)<br>
+[4. Skills](#Skills)<br>
 
 ## Career
 <div markdown="1">
@@ -32,15 +31,8 @@
 
 </div>
 
-## Most Used Languages
-<div markdown="3">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domin2co)](https://github.com/Domin2co/github-readme-stats)
-
-</div>
-
 ## Project
-<div markdown="4">
+<div markdown="3">
   
 |기간|프로젝트명|회사|
 |:-:|-:|-:|
@@ -53,7 +45,7 @@
 </div>
 
 ## Skills
-<div markdown="5">
+<div markdown="4">
   
 - ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) <br>
 - ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) <br>
