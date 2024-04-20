@@ -3,8 +3,8 @@
    ### Domin2co
 
    <a href="https://velog.io/@ikhyeons"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=velog&logoColor=white"/></a>
-   <a href="https://www.instagram.com/domin2co"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
    <a href="https://ikstars.tistory.com"><img src="https://img.shields.io/badge/Tistory-E74C3C?style=flat-square&logo=tistory&logoColor=white"/></a>
+   <a href="https://www.instagram.com/domin2co"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 </div>
 
