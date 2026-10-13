@@ -4,7 +4,7 @@
 
   <p><sub>BACKEND-FOCUSED WEB DEVELOPER</sub></p>
 
-  <h1>안녕하세요, 신익현입니다 👋</h1>
+  <h1>안녕하세요, Domin2co입니다 👋</h1>
 
   <p>
     <strong>사용자에게는 자연스럽고, 운영하는 사람에게는 신뢰할 수 있는 서비스를 만듭니다.</strong>
